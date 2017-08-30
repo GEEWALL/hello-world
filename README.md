@@ -1,2 +1,9 @@
 # hello-world
-Cheers, lets do this
+
+Well hello there,
+
+Welcome to my little page
+
+Start of something new.
+
+I'm excited
